@@ -1,0 +1,45 @@
+/* .breadcrumb-area h1 {
+
+    top: -234px;
+}
+
+.breadcrumb-area .breadcrumb {
+    position: relative;
+    top: -239px;
+} */
+
+.default-padding {
+    padding-top: 10px;
+    padding-bottom: 120px;
+}
+
+.wave-top {
+    position:relative;
+    top:-58px;
+    left: 0;
+    width: 100%;
+  }
+
+  .gradient-bg
+{
+   background: linear-gradient(to right, #FF7F50,#D8BFD8); 
+}
+
+.tags{
+    text-align: left !IMPORTANT;
+    line-height: 20px;
+}
+
+.info h4{
+    text-align: left !IMPORTANT;
+    line-height: 20px;
+}
+
+.dark-layout .blog-area.blog-standard .single-item.thumb-less .item {
+
+    min-height: 300px;
+}
+
+h2.logo.logo-display.white {
+    color: white !important;
+}

@@ -115,7 +115,10 @@ body.dark-layout .navbar .side p {
 .orange{
   color: #4628ba !important;
 }
+.breadcrumb-area {
+  padding: 100px 0px !important;
 
+}
 
 /* contact bg */
 svg {
