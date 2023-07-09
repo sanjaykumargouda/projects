@@ -43,3 +43,11 @@
 h2.logo.logo-display.white {
     color: white !important;
 }
+
+.blog-area .item {
+    background: #ffffff;
+    box-shadow: none;
+    border-radius: 8px;
+}
+
+/** anime js css**//
