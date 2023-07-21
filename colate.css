@@ -50,4 +50,111 @@ h2.logo.logo-display.white {
     border-radius: 8px;
 }
 
-/** anime js css**//
+/** anime js css**/
+
+/* Login form css start */
+.form-check-input {
+    position: absolute;
+    margin-top: -0.7rem !important;
+    margin-left: -1.25rem;
+}
+.global-container{
+	height:100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #fff;
+}
+
+.card-title{ font-weight:300; }
+
+/* .btn{
+	font-size: 14px;
+	margin-top:20px;
+} */
+
+
+.login-form{ 
+	width:330px;
+	margin:20px;
+}
+
+.sign-up{
+	text-align:center;
+	padding:20px 0 0;
+}
+
+.alert{
+	margin-bottom:-30px;
+	font-size: 13px;
+	margin-top:20px;
+}
+/* Login form css end */
+
+
+/* blog entry page css */
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+input[readonly] {
+  background-color: white !important;
+  cursor: text !important;
+}
+
+/* this is only due to codepen display don't use this outside of codepen */
+input {
+
+    min-height: 37px !important;
+}
+input {
+    border: 1px solid #e7e7e7;
+    border-radius: inherit;
+    box-shadow: inherit;
+    min-height: 37px;
+}
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+input[readonly] {
+  background-color: white !important;
+  cursor: text !important;
+}
+
+
+/*  blog entry page css end*/
